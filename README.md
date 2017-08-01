@@ -1,5 +1,8 @@
 # camisade.py
 -------------------------------------------------
+Automatic Security and Discovery tool and Port Banner Grabbing
+
+
 
 Available Functions:
 
