@@ -4,6 +4,8 @@
 Available Functions:
 
 -t IP/URL, --target IP/URL    Range or IP to Analyze - Discover open ports and Banner Grabbing
+
+
 -d IP/URL, --view IP/URL      The truth is Out there - Discover and detect live machines
 
 In progress:
