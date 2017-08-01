@@ -1,6 +1,6 @@
 # camisade.py
 -------------------------------------------------
-Automatic Security and Discovery tool and Port Banner Grabbing
+Automatic Discovery and Banner Grabbing Tool
 
 
 
