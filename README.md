@@ -1,20 +1,17 @@
-# camisade 
+# camisade.py
 -------------------------------------------------
 
 Available Functions:
 
-
-1. Detect Live Machines (IP or range available)
-2. Detect Open Ports and Banner Grabbing
+-t IP/URL, --target IP/URL    Range or IP to Analyze - Discover open ports and Banner Grabbing
+-d IP/URL, --view IP/URL      The truth is Out there - Discover and detect live machines
 
 In progress:
 
-3. Save data into Mysql Database
-4. Detect MitMf
+Save data into Mysql Database
 
 
 Requirements:
-
 
 1. python-nmap
 2. socket
