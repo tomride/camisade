@@ -4,9 +4,13 @@
 Available Functions:
 
 
-1. Detect Live Machines 
+1. Detect Live Machines (IP or range available)
 2. Detect Open Ports and Banner Grabbing
+
+In progress:
+
 3. Save data into Mysql Database
+4. Detect MitMf
 
 
 Requirements:
