@@ -21,7 +21,10 @@ Requirements:
 4. Mysql datababase
 
 dbhost = os.environ['mydbhost']
+
 dbpasswd = os.environ['mydbpasswd']
+
 dbname = os.environ['mydname']
+
 dbuser = os.environ['mydbuser']
 
