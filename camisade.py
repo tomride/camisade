@@ -6,15 +6,6 @@
 # 2. Detect Open Ports (python-nmap)
 # 3. BANNER Grabbing   (scapy,socket)
 
-"""
-export mydbhost=
-export mydbpasswd=
-export mydname=
-export mydbuser=
-
-"""
-
-
 import os
 import socket
 import sys
