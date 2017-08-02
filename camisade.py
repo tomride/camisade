@@ -48,7 +48,6 @@ def main():
 
     parser = argparse.ArgumentParser("camisade.py")
     parser.add_argument("-t","--target", dest="target", type=str, help="Range to Analyze", metavar="IP/URL")
-    parser.add_argument("-x","--detect", dest="snf", type=str, help="The truth is Out there", metavar="IP/URL")
     parser.add_argument("-d","--view", dest="view", type=str, help="View Live machines", metavar="IP/URL")
 
     args = parser.parse_args()
