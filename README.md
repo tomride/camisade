@@ -21,18 +21,16 @@ Requirements:
 4. Mysql datababase
 
 CREATE TABLE `Banners` (
+
  `ip_address` varchar(15) NOT NULL,
+ 
  `port` varchar(6) NOT NULL,
+ 
  `banner` varchar(200) NOT NULL,
+ 
  UNIQUE KEY `ip_address` (`ip_address`,`port`)
+ 
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8
 
 
-dbhost = os.environ['mydbhost']
-
-dbpasswd = os.environ['mydbpasswd']
-
-dbname = os.environ['mydname']
-
-dbuser = os.environ['mydbuser']
 
